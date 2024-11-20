@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885144721672",
+    "project_id": "firebase-auth-akashi",
+    "storage_bucket": "firebase-auth-akashi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885144721672:android:a0d2652c9cd19c9abbb4bd",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPLLU-F0LkxoKlMrKz7v2lSk03xmvWzFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
